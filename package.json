@@ -68,7 +68,7 @@
     "modernizr-loader": "^1.0.1",
     "moment": "^2.18.1",
     "nightwatch": "^0.9.15",
-    "node-sass": "^4.5.3",
+    "node-sass": "^7.0.0",
     "postcss-loader": "^2.0.5",
     "postcss-rtl": "^0.5.10",
     "progress-bar-webpack-plugin": "^1.9.3",
